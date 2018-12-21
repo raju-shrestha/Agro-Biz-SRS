@@ -1,6 +1,6 @@
 # AGRO-BIZ
 
-SRS documentation on Agro-Biz application.
+          Software Requirement Specification documentation on Agro-Biz application.
 
 AGRO-BIZ is a mobile based application that provides the complete guide to farmers, customers and businessman.
 
